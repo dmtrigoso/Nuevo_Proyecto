@@ -1,4 +1,4 @@
-cambios.log
+*.log
 /imagenes
 /pruebas
-README.txt
+*.txt
